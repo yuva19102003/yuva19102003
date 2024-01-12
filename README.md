@@ -15,6 +15,3 @@ I'm a CS student<br>I'm interested in the domain of AWS and devops<br>I'm curren
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yuva19102003&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
-
