@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Yuva ... <br>and <br>I'm a Cloud and DevOps enthusiast</h1>
+<h1 align="center">Hi 👋! I'm Yuva ... <br>and <br>I'm a CNCF enthusiast</h1>
 
 ###
 
@@ -14,10 +14,6 @@
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-<!-- Languages and Tools Section -->
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <br clear="both">
@@ -26,24 +22,30 @@
 
 ###
 
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
 <br clear="both">
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuva19102003&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
 <div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yuva19102003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+    
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuva19102003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=yuva19102003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 </div>
 
 ###
+
 <div>
 <div align="left">
   <a href="https://www.youtube.com/channel/UCpq0ngBDykQ7-WJwfkz73QQ" target="_blank">
@@ -57,6 +59,7 @@
   </a>
 </div>
 </div>
+
 ###
 
 <div align="left">
