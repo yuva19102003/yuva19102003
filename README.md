@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=LewisPour&bg=yellowgreen&fill=black"></p>
+<p align="center"><img src="./image.png"></p>
 
 <h1 align="center">Hi 👋! I'm Yuva ... <br>and <br>I'm a CNCF enthusiast</h1>
 
