@@ -1,20 +1,15 @@
 
 
 <p align="center"><img src="./image.png"></p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yuva19102003.yuva19102003&"  />
 
-###
+![Followers](https://img.shields.io/github/followers/yuva19102003?label=Follow%20Me&style=social)
 
-<br clear="both">
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=yuva19102003.yuva19102003&"  />
-
-###
-
-<br clear="both">
-
-
+---
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+
 
 ###
 
@@ -22,47 +17,9 @@
 
 <img src="https://raw.githubusercontent.com/yuva19102003/yuva19102003/output/snake.svg" alt="Snake animation" />
 
-###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
-<br clear="both">
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuva19102003&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-<div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuva19102003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-    
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuva19102003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=yuva19102003&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-</div>
-
-###
-
-<div>
-<div align="left">
-  <a href="https://www.youtube.com/channel/UCpq0ngBDykQ7-WJwfkz73QQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.gg/wpY4f5Bj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yuvaraj-k-6921b824b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-</div>
-
-###
+### Tech Stacks Used
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
@@ -120,6 +77,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+### Contribution
+
+<br clear="both">
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuva19102003&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<div>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuva19102003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+    
+</div>
+
 ###
 
-![Metrics](https://metrics.lecoq.io/kattni?template=classic&languages=1&achievements=1¬able=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0¬able.from=organization¬able.repositories=false¬able.indepth=false¬able.types=commit&config.timezone=America%2FNew%20York)
+<div>
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCpq0ngBDykQ7-WJwfkz73QQ" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.gg/wpY4f5Bj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yuvaraj-k-6921b824b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+</div>
+
+###
+
