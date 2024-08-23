@@ -2,8 +2,6 @@
 
 <p align="center"><img src="./image.png"></p>
 
-<h1 align="center">Hi 👋! I'm Yuva ... <br>and <br>I'm a CNCF enthusiast</h1>
-
 ###
 
 <br clear="both">
