@@ -1,52 +1,64 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1>👋 Yo, I'm Yuva</h1>
 
-###
+<!-- Right-side CI/CD Flow -->
+<img align="right" width="340"
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQ1aWI2cjVyeGpzYmh2bGFtMzd4dHA0Z3NubzZwbXBkaW00cDE4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PApUm1HPVYlDNLoMmr/giphy.gif" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+<!-- Animated typing -->
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFD1&vCenter=true&width=520&lines=DevOps+%7C+Cloud+%7C+Automation;Powering+AI+and+Blockchain+Infra;CI%2FCD+without+drama;Ship+Fast.+Sleep+Well." />
+  </a>
+</p>
 
-###
+🚀 **DevOps Engineer | Freelancer | Open Source Contributor**
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+> *“I automate things so humans don’t have to —  
+powering AI & blockchain systems behind the scenes.”*
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<!-- Neon divider -->
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00FFD1, #6A5ACD, #00FFD1);" />
 
-###
+### 🖤 What I Actually Do
+- Turn chaos into clean pipelines  
+- Power AI & blockchain workloads with reliable infra  
+- Make deployments boring (highest compliment)  
+- Catch issues before users notice  
+- Secure systems so scaling doesn’t become stress  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### ⚡ DevOps Energy
+- If it’s manual → it’s getting automated  
+- If it’s AI → it needs stable infra  
+- If it’s blockchain → uptime is non-negotiable  
+- If it breaks → observability tells the truth  
+
+---
+
+### 🚀 My Core DevOps Principle
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1500&color=00FFD1&width=1000&lines=Code+→+CI+→+Security+→+Deploy+→+Observe+→+Scale" />
+</p>
+
+💻 Build with **Code**  
+⚙️ Validate with **CI**  
+🔐 Protect with **Security**  
+🚀 Ship with **Deploy**  
+👀 Learn through **Observe**  
+📈 Grow by **Scale**  
+
+---
+
+### 🧠 Currently Vibing With
+- Cloud-native + distributed systems  
+- CI/CD for AI & blockchain workloads  
+- Observability that actually explains failures  
+- Infra that survives real traffic, not demos  
+
+---
+
+⭐ *Open to collabs, freelance work, and building the backbone of modern systems.*
