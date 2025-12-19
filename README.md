@@ -2,7 +2,7 @@
 
 <!-- Right-side CI/CD Flow -->
 <img align="right" width="340"
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQ1aWI2cjVyeGpzYmh2bGFtMzd4dHA0Z3NubzZwbXBkaW00cDE4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PApUm1HPVYlDNLoMmr/giphy.gif" />
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ2eGhrdmM4dHRwNjFsY3IzMnJlam02NmRnN2tiZXc1am1xZzJrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7x8QN7gMcsAxX8v2z/giphy.gif" />
 
 <!-- Animated typing -->
 <p align="left">
