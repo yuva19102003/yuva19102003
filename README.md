@@ -3,7 +3,7 @@
   <img src="./banners.jpg" alt="InfraForge DevOps Banner" width="100%" />
 </p>
 
-<h1>👋 Yo, I'm DevOps Wizard</h1>
+<h1>🧙‍♂️ DevOps Wizard @ InfraForge</h1>
 
 <!-- Right-side CI/CD Flow -->
 <img align="right" width="340"
@@ -12,77 +12,97 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ2eGhrdmM4dHRwNjFsY3IzM
 <!-- Animated typing -->
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFD1&vCenter=true&width=520&lines=DevOps+Wizard+from+InfraForge;Cloud+%7C+DevOps+%7C+Automation;Powering+AI+and+Blockchain+Infra;CI%2FCD+without+drama;Ship+Fast.+Sleep+Well." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFD1&vCenter=true&width=620&lines=Production-grade+DevOps+%26+Cloud;CI%2FCD+%7C+Security+%7C+Automation;Infra+that+survives+real+traffic;Available+for+Freelance+Work" />
   </a>
 </p>
 
-🚀 **DevOps Wizard | Cloud & Infrastructure Engineer | Freelancer**
+🧙‍♂️ **DevOps Wizard | Cloud & DevOps Freelancer**
 
-> *“I build infrastructure that survives production —  
-not just demos.”*
+> *I build infrastructure that survives production —  
+even under real, heavy traffic.*
 
 ---
 
 <!-- Neon divider -->
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00FFD1, #6A5ACD, #00FFD1);" />
 
-## 🖤 What I Actually Do
-- Turn fragile infra into **production-grade systems**
-- Automate CI/CD so releases don’t need prayers
-- Power **AI, ML & blockchain workloads** with stable infra
-- Lock down security without slowing teams
-- Make observability tell the **truth**, not noise
+## 🚀 Freelance DevOps Services
+
+I help **startups, SaaS teams, and founders** build, fix, and scale **production-ready cloud infrastructure**.
+
+### 💼 What Clients Hire Me For
+- Cloud infrastructure setup & automation (AWS, Azure, DigitalOcean)
+- CI/CD pipelines that don’t break on Fridays
+- Kubernetes & container platform engineering
+- DevSecOps (security baked into pipelines)
+- Cloud cost optimization & cleanup
+- Monitoring & observability that actually reduces incidents
+- AI / ML infrastructure & MLOps pipelines
+- Private blockchain & Web3 infrastructure
 
 ---
 
-## ⚡ DevOps Energy
-- If it’s manual → it’s getting automated  
-- If it’s cloud → it needs guardrails  
-- If it’s AI → infra must scale fast  
-- If it’s blockchain → uptime is non-negotiable  
-- If it breaks → metrics explain *why*
+## 🧠 How I Work
+- **Production-first mindset** (no toy setups)
+- **Automation over manual fixes**
+- **Security by default**, not later
+- Clean documentation & proper handover
+- Infra your team can actually maintain
 
 ---
 
-## 🚀 Core DevOps Principle
+## 🛠️ What I Actually Build
+
+### ☁️ Cloud & Infrastructure
+AWS · Azure · DigitalOcean · VPC · IAM · S3 · RDS · DynamoDB · EKS · AKS  
+Load Balancers · CDN · WAF · Route53 · Private Networking  
+
+### ⚙️ DevOps & Platform Engineering
+Docker · Kubernetes · Helm · GitHub Actions · Jenkins · Azure DevOps  
+Terraform · Ansible · GitOps  
+
+### 🔐 Security & DevSecOps
+IAM · Network Security · WAF · IDS / IPS  
+Vault · Snyk · Trivy · SonarQube · SIEM / SOAR  
+
+### 📊 Monitoring & Observability
+Prometheus · Grafana · Loki · Datadog · Alerting  
+
+### 🤖 AI / ML & MLOps
+MLflow · Kubernetes Inference  
+FastAPI · Model Pipelines · GPU-ready infra  
+
+### ⛓️ Blockchain Infrastructure
+Ethereum (Geth) · Solidity · Kubernetes-based private networks  
+
+---
+
+## ⚡ Common Problems I Fix
+- Deployments are slow, fragile, or risky  
+- Infra isn’t automated or reproducible  
+- Cloud bills are out of control  
+- Security audits are painful  
+- Kubernetes exists but nobody understands it  
+- Monitoring shows graphs but gives no answers  
+
+---
+
+## 🧙 My Infra Philosophy
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1500&color=00FFD1&width=1000&lines=Code+→+CI+→+Security+→+Deploy+→+Observe+→+Scale" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1500&color=00FFD1&width=1000&lines=Design+→+Automate+→+Secure+→+Deploy+→+Observe+→+Scale" />
 </p>
 
-💻 **Code** → ⚙️ **CI** → 🔐 **Security** → 🚀 **Deploy** → 👀 **Observe** → 📈 **Scale**
-
 ---
 
-## 🧠 What I Build
-- Cloud infrastructure on **AWS, Azure, DigitalOcean**
-- Kubernetes platforms (EKS, AKS, self-managed)
-- CI/CD pipelines across **GitHub Actions, Jenkins, Azure DevOps**
-- DevSecOps systems with SAST, DAST, IAM & WAF
-- AI/ML infra with **MLOps pipelines & model serving**
-- Private blockchain networks (Ethereum, Sui, Solana)
-- Observability stacks that reduce MTTR, not dashboards
+## ⭐ Let’s Work Together
 
----
+If you need:
+- Short-term DevOps help  
+- Infrastructure rescue  
+- CI/CD modernization  
+- Cloud or Kubernetes setup  
+- Ongoing DevOps support  
 
-## 🛠️ Tech I Use Daily
-**Cloud & Infra:** AWS, Azure, DigitalOcean, Terraform, Ansible  
-**Containers:** Docker, Kubernetes, Helm  
-**CI/CD:** GitHub Actions, Jenkins, Azure DevOps  
-**Security:** IAM, WAF, Vault, Snyk, Trivy, SonarQube, SIEM/SOAR  
-**Observability:** Prometheus, Grafana, Loki, Datadog  
-**AI/ML:** MLflow, Kubernetes inference, FastAPI  
-**Blockchain:** Geth, Solidity, Kubernetes-based networks  
-
----
-
-## 🌱 Currently Focused On
-- Production-ready cloud platforms
-- AI & blockchain infrastructure at scale
-- DevSecOps-first delivery pipelines
-- Infra that handles **real traffic**, not slides
-
----
-
-⭐ **Open to freelance work, consulting, and collaboration**  
-If you’re building something serious and need infra that won’t melt — let’s talk.
+📩 **Open to freelance & contract work**  
+Let’s build infrastructure that doesn’t wake you up at 3 AM.
