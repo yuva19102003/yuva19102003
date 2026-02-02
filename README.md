@@ -3,7 +3,7 @@
   <img src="./banners.jpg" alt="InfraForge DevOps Banner" width="100%" />
 </p>
 
-<h1>🧙‍♂️ DevOps Wizard @ InfraForge</h1>
+<h1>🧙‍♂️ DevOps Wizard @ DeployForge</h1>
 
 <!-- Right-side CI/CD Flow -->
 <img align="right" width="340"
