@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./bcover-images.png" alt="InfraForge DevOps Banner" width="100%" />
+  <img src="./cover-images.png" alt="InfraForge DevOps Banner" width="100%" />
 </p>
 
 <h1>🧙‍♂️ DevOps Wizard @ DeployForge</h1>
