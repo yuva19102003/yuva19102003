@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./ci.png" alt="InfraForge DevOps Banner" width="100%" />
+  <img src="./ci.png" alt="DeployForge DevOps Banner" width="100%" />
 </p>
 
 <h1>🧙‍♂️ DevOps Wizard @ DeployForge</h1>
@@ -12,97 +12,115 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHQ2eGhrdmM4dHRwNjFsY3IzM
 <!-- Animated typing -->
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFD1&vCenter=true&width=620&lines=Production-grade+DevOps+%26+Cloud;CI%2FCD+%7C+Security+%7C+Automation;Infra+that+survives+real+traffic;Available+for+Freelance+Work" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFD1&vCenter=true&width=640&lines=Production-grade+DevOps+%26+Cloud;CI%2FCD+%7C+Security+%7C+Automation;Infra+that+survives+real+traffic;Built+for+scale%2C+not+demos" />
   </a>
 </p>
 
-🧙‍♂️ **DevOps Wizard | Cloud & DevOps Freelancer**
+🧙‍♂️ **DevOps Engineer | Cloud & Platform Specialist**
 
 > *I build infrastructure that survives production —  
 even under real, heavy traffic.*
 
 ---
 
-<!-- Neon divider -->
 <hr style="border: none; height: 2px; background: linear-gradient(90deg, #00FFD1, #6A5ACD, #00FFD1);" />
 
-## 🚀 Freelance DevOps Services
+## 🧠 What I Do
 
-I help **startups, SaaS teams, and founders** build, fix, and scale **production-ready cloud infrastructure**.
+I design, automate, and operate **production-grade cloud infrastructure** with a strong focus on:
 
-### 💼 What Clients Hire Me For
-- Cloud infrastructure setup & automation (AWS, Azure, DigitalOcean)
-- CI/CD pipelines that don’t break on Fridays
-- Kubernetes & container platform engineering
-- DevSecOps (security baked into pipelines)
-- Cloud cost optimization & cleanup
-- Monitoring & observability that actually reduces incidents
-- AI / ML infrastructure & MLOps pipelines
-- Private blockchain & Web3 infrastructure
+- Reliability & scalability  
+- Automation-first DevOps practices  
+- Secure-by-default systems  
+- Clear observability & operational clarity  
+
+I enjoy turning complex systems into **boring, predictable platforms** that teams can trust.
 
 ---
 
-## 🧠 How I Work
-- **Production-first mindset** (no toy setups)
-- **Automation over manual fixes**
-- **Security by default**, not later
-- Clean documentation & proper handover
-- Infra your team can actually maintain
+## 🏗️ Infrastructure & Platform Engineering
+
+### ☁️ Cloud & Core Infrastructure
+AWS · Azure · DigitalOcean  
+VPC · VNets · IAM / SSO · Private Networking  
+EC2 · VMs · EKS · AKS · Load Balancers  
+S3 · Blob Storage · RDS · DynamoDB · Redis  
+CloudFront · CDN · Route53 · WAF  
 
 ---
 
-## 🛠️ What I Actually Build
+### ⚙️ DevOps, CI/CD & Automation
+GitHub Actions · Jenkins · Azure DevOps  
+Terraform (remote state, modules, multi-env)  
+Ansible · GitOps · Helm  
+Multi-environment pipelines (dev / staging / prod)  
+Automated rollbacks, approvals, and deployments  
 
-### ☁️ Cloud & Infrastructure
-AWS · Azure · DigitalOcean · VPC · IAM · S3 · RDS · DynamoDB · EKS · AKS  
-Load Balancers · CDN · WAF · Route53 · Private Networking  
-
-### ⚙️ DevOps & Platform Engineering
-Docker · Kubernetes · Helm · GitHub Actions · Jenkins · Azure DevOps  
-Terraform · Ansible · GitOps  
+---
 
 ### 🔐 Security & DevSecOps
-IAM · Network Security · WAF · IDS / IPS  
-Vault · Snyk · Trivy · SonarQube · SIEM / SOAR  
+IAM & access control design  
+Firewall rules · Security Groups · Network isolation  
+WAF & CORS management  
+SAST / DAST · Snyk · Trivy · SonarQube  
+SIEM / SOAR (Azure Sentinel, Wazuh)  
+IDS / IPS · Threat detection  
+
+---
 
 ### 📊 Monitoring & Observability
-Prometheus · Grafana · Loki · Datadog · Alerting  
+Prometheus · Grafana · Loki  
+Datadog · Alerting & incident visibility  
+Metrics · Logs · Traces that explain failures  
+
+---
 
 ### 🤖 AI / ML & MLOps
-MLflow · Kubernetes Inference  
-FastAPI · Model Pipelines · GPU-ready infra  
+Kubernetes-based ML platforms  
+MLflow for model tracking  
+Shared NFS / Azure Files model storage  
+Inference APIs with multi-stage Docker builds  
+Automated MLOps pipelines  
+
+---
 
 ### ⛓️ Blockchain Infrastructure
-Ethereum (Geth) · Solidity · Kubernetes-based private networks  
+Private blockchain networks on Kubernetes  
+Ethereum (Geth) · Solidity  
+PoA-based networks  
+Auto-scaling blockchain nodes (Docker + K8s)  
 
 ---
 
-## ⚡ Common Problems I Fix
-- Deployments are slow, fragile, or risky  
-- Infra isn’t automated or reproducible  
-- Cloud bills are out of control  
-- Security audits are painful  
-- Kubernetes exists but nobody understands it  
-- Monitoring shows graphs but gives no answers  
+## ⚡ Problems I Like Solving
+- Fragile CI/CD pipelines  
+- Manual cloud setups that don’t scale  
+- Security added too late  
+- Kubernetes without operational clarity  
+- High cloud costs with low visibility  
+- Monitoring that shows graphs but no answers  
 
 ---
 
-## 🧙 My Infra Philosophy
+## 🧙 Infra Philosophy
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1500&color=00FFD1&width=1000&lines=Design+→+Automate+→+Secure+→+Deploy+→+Observe+→+Scale" />
 </p>
 
+- If it’s manual → automate it  
+- If it’s exposed → secure it  
+- If it’s scaling → observe it  
+
 ---
 
-## ⭐ Let’s Work Together
+## 🧩 Current Focus
+- Platform engineering & internal developer platforms  
+- Secure cloud foundations  
+- CI/CD reliability & DevSecOps  
+- Observability-driven operations  
+- AI & Web3 infrastructure at production scale  
 
-If you need:
-- Short-term DevOps help  
-- Infrastructure rescue  
-- CI/CD modernization  
-- Cloud or Kubernetes setup  
-- Ongoing DevOps support  
+---
 
-📩 **Open to freelance & contract work**  
-Let’s build infrastructure that doesn’t wake you up at 3 AM.
+⭐ *I enjoy building systems that engineers trust and operators sleep on.*
