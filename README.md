@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ci.png" alt="Yuvaraj K — DevOps Engineer" width="100%" />
+  <img src="./banner.png" alt="Yuvaraj K — DevOps Engineer" width="100%" />
 </p>
 
 <h1 align="center">YUVARAJ K</h1>
