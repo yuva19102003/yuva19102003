@@ -144,7 +144,8 @@ If it's growing     →  plan for scale before it hurts
 - Freelance infrastructure projects and consulting
 - Collaboration on open-source DevOps tooling
 
-📬 **yuvarajk.devops@gmail.com** · 🌐 **yuvarajk.vercel.app**
+📬 **yuvarajk.devops@gmail.com**
+🌐 **yuva-devops.cc**
 
 ---
 
